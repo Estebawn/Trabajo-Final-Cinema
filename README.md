@@ -14,7 +14,7 @@
 5) **REPORTE DE VISIÓN**
      El software permitira desde la comodidad del usuario mediante una interfaz amigable e intituitiva, poder revisar que peliculas se encuentran disponibles en taquilla, de igual forma contara con la funcionalidad de comprar y reservar asientos, lo que ayudara a que la experiencia del usuario sea rapida y eficaz a su vez que incentiva a la economia y ambiente social de la universidad.
 
-6)**ESPECIFICACIONES DE REQUISITOS**
+6) **ESPECIFICACIONES DE REQUISITOS**
   Requisitos funcionales:
     -Sistema horario vinculado a un listado de peliculas
     -Registro de usuario y rango de precios 
