@@ -6,7 +6,9 @@
   Esteban Leon Duque: soy estudiante de ingenieria industrial modalidad virtual, me destaco por mi serenidad y comprender los temas con cierta facilidad, en el ultimo año he tratado de mejorar mi pensamiento logico para el desarrollo de mis habilidades.
 
 3) __**NOMBRE DEL PROYECTO Y DETALLES**__
-   <img width="165" height="143" alt="image" src="https://github.com/user-attachments/assets/c424acc7-ef8c-4ff9-91da-dc3ec14780ae" />
+
+<img width="165" height="143" alt="image" src="https://github.com/user-attachments/assets/0071c804-3c7e-4ad4-9b71-94c7cc2463b1" />
+
 
   Nombre: Udea Films
   Descripción: En este proyecto se buscara desarrollar un programa de software que permita un gestion eficaz y buen uso del cinema estudiantil que tendra por nombre "Udea Films"
