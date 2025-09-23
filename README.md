@@ -11,6 +11,7 @@
 
 
   Nombre: Udea Films
+  
   Descripción: En este proyecto se buscara desarrollar un programa de software que permita un gestion eficaz y buen uso del cinema estudiantil que tendra por nombre "Udea Films"
 
 5) **LICENCIA DE SOFTWARE**
