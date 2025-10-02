@@ -27,8 +27,8 @@ Maria Fernanda Vergara: Soy estudiante de ingenieria Industrial modalidad virtua
 6) **ESPECIFICACIONES DE REQUISITOS**
    
   Requisitos funcionales:
-    -Sistema horario vinculado a un listado de peliculas
+   -Sistema horario vinculado a un listado de peliculas
    
-    -Registro de usuario y rango de precios
+   -Registro de usuario y rango de precios
     
-    -Reservación, compra y cancelación de tickets
+   -Reservación, compra y cancelación de tickets
