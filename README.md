@@ -37,5 +37,6 @@ Maria Fernanda Vergara: Soy estudiante de ingenieria Industrial modalidad virtua
 
 7) **Plan de Proyecto**
 
-   <img width="921" height="159" alt="image" src="https://github.com/user-attachments/assets/56327e21-26b1-4ff8-b77c-7e18c7c3d838" />
+  <img width="899" height="146" alt="image" src="https://github.com/user-attachments/assets/960ad935-b90b-4474-93e2-49afdee5b077" />
+
 
