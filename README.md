@@ -20,11 +20,15 @@ Maria Fernanda Vergara: Soy estudiante de ingenieria Industrial modalidad virtua
   
   Descripción: En este proyecto se buscara desarrollar un programa de software que permita un gestion eficaz y buen uso del cinema estudiantil que tendra por nombre "Udea Films"
 
+4) **Licencia**
 
-5) **REPORTE DE VISIÓN**
+   https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+
+6) **REPORTE DE VISIÓN**
      El software permitira desde la comodidad del usuario mediante una interfaz amigable e intituitiva, poder revisar que peliculas se encuentran disponibles en taquilla, de igual forma contara con la funcionalidad de comprar y reservar asientos, lo que ayudara a que la experiencia del usuario sea rapida y eficaz a su vez que incentiva a la economia y ambiente social de la universidad.
 
-6) **ESPECIFICACIONES DE REQUISITOS**
+7) **ESPECIFICACIONES DE REQUISITOS**
    
   Requisitos funcionales:
   
