@@ -33,3 +33,9 @@ Maria Fernanda Vergara: Soy estudiante de ingenieria Industrial modalidad virtua
    -Registro de usuario y rango de precios
     
    -Reservación, compra y cancelación de tickets
+
+
+7) **Plan de Proyecto**
+
+   <img width="921" height="159" alt="image" src="https://github.com/user-attachments/assets/56327e21-26b1-4ff8-b77c-7e18c7c3d838" />
+
