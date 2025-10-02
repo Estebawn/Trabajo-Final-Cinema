@@ -1,5 +1,6 @@
 # Trabajo_Final_Cinema
 1) **INTEGRANTES Y DESCRIPCION**
+   
    Esteban Leon Duque: Tengo 21 años estoy inscrito en la seccional de occidente y actualmente resido en medellin, me gusta el deporte, los videojuegos y el modelado 3D.
 
    María Fernanda Vergara: Tengo 24 años estoy insscrita en la sede principal de Medellín y actualmente resido en Bello, me gusta la musica, toco varios instrumentos y mi pasión es el baile.
